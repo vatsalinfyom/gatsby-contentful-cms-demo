@@ -1,5 +1,5 @@
 ---
-title: InfyOm Frontend Team
+title: InfyOm Frontend Teams
 name: ftgbfhfhfhgfhfhfhfhfhf
 date: 2021-02-20T07:45:36.964Z
 description: This all about infyom fronted team, create netfly cms demo
